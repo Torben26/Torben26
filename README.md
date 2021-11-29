@@ -1,6 +1,7 @@
 ### ✌️ Hi there
-@Torben26
-@TwentySixCode
+
+#### I'm @TwentySixCode @Torben26
+
 
 - 👨🏽‍💻 Developer of the SmartDisplay iPad app and CryptoPlex iOS app.
 
