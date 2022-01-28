@@ -12,7 +12,7 @@
 - 📷 Instagram: https://www.instagram.com/twentysixcode/ 
 
 
-© 2021 TwentySixCode by Torben Steen.
+2022 TwentySixCode by Torben Steen.
 
 
 <!---
