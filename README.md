@@ -8,8 +8,8 @@
 - 📧 Mail:      info@twentysixcode.com 
 - 🌍 Website:   https://twentysixcode.com/ 
 - 📱 AppStore:  https://apps.apple.com/us/developer/torben-steen/id1452072129/ 
-- 🐦 Twitter:   https://twitter.com/9Torben5/ https://twitter.com/CryptoPlexApp
-- 📷 Instagram: https://www.instagram.com/twentysixcode/ https://www.instagram.com/cryptoplex_app/
+- 🐦 Twitter:   https://twitter.com/9Torben5/   https://twitter.com/CryptoPlexApp
+- 📷 Instagram: https://www.instagram.com/twentysixcode/   https://www.instagram.com/cryptoplex_app/
 
 
 2022 TwentySixCode by Torben Steen.
