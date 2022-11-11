@@ -3,7 +3,7 @@
 #### I'm @TwentySixCode @Torben26
 
 
-- 👨🏽‍💻 Developer of the SmartDisplay iPad app and CryptoPlex iOS app.
+- 👨🏽‍💻 Developer of the SmartDisplay X and CryptoPlex app.
 
 - 📧 Mail:      info@twentysixcode.com 
 - 🌍 Website:   https://twentysixcode.com/ 
@@ -12,7 +12,7 @@
 - 📷 Instagram: https://www.instagram.com/twentysixcode/
 
 
-2022 TwentySixCode by Torben Steen.
+#### 2022 TwentySixCode by Torben Steen.
 
 
 <!---
