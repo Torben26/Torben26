@@ -3,7 +3,7 @@
 #### I'm @TwentySixCode @Torben26
 
 ###
-> 👨🏽‍💻 Developer of the SmartDisplay X and CryptoPlex app.<br>
+> 👨🏽‍💻 Developer of SmartDisplay X, CryptoPlex & The Timechain app.<br>
 > 👌🏼 Interested in Swift development & all Bitcoin related things.
 ###
 - 📧 Mail:      info@twentysixcode.com 
@@ -12,7 +12,7 @@
 - 🐦 Twitter:   https://twitter.com/9Torben5/ 
 - 📷 Instagram: https://www.instagram.com/twentysixcode/
 ###
-#### 2022 TwentySixCode by Torben Steen.
+#### 2023 TwentySixCode by Torben Steen.
 
 
 <!---
