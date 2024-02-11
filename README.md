@@ -4,7 +4,7 @@
 
 ###
 > 👨🏽‍💻 Developer of SmartDisplay X, CryptoPlex, Pixlay & The Timechain <br>
-> 👌🏼 Interested in Swift development & all Bitcoin related things.
+> 👌🏼 Interested in Swift development & Bitcoin related things.
 ###
 - 📧 Mail:      info@twentysixcode.com 
 - 🌍 Website:   https://twentysixcode.com/ 
@@ -12,7 +12,7 @@
 - 🐦 X:         https://twitter.com/9Torben5/ 
 - 📷 Instagram: https://www.instagram.com/smartdisplay.pixlay/
 ###
-#### 2023 TwentySixCode by Torben Steen.
+#### 2024 TwentySixCode by Torben Steen.
 
 
 <!---
