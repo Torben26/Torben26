@@ -3,8 +3,9 @@
 #### I'm @TwentySixCode @Torben26
 
 ###
-> 👨🏽‍💻 Developer of SmartDisplay X, CryptoPlex, Pixlay & The Timechain <br>
+> 👨🏽‍💻 Developer of SmartDisplay X, CryptoPlex, Pixlay, SpeedGPS & The Timechain <br>
 > 👌🏼 Interested in Swift development & Bitcoin related things.
+> 🍏 Participant WWDC23 & 24 at Apple Park
 ###
 - 📧 Mail:      info@twentysixcode.com 
 - 🌍 Website:   https://twentysixcode.com/ 
